@@ -1,0 +1,41 @@
+site_name: Spieleau-Buch
+site_description: Ein Online-Musikbuch mit interaktiven Beispielen
+site_author: Herr Piesik
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+nav:
+  - Start: index.md
+  - 1 Die Wahl der Werkzeuge:
+      - 1.1 Pico-8: kapitel/wahlderwerkzeuge/01.md
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - fenced_code
+
+
+extra_javascript:
+  - https://unpkg.com/@strudel/repl@latest
+  - javascripts/strudel-controls.js
+  - javascripts/strudel-hide-until-markers.js
+  #- https://unpkg.com/abcjs@6.2.3/dist/abcjs-basic-min.js
+  - javascripts/vendor/abcjs-basic-min.js
+  - javascripts/abc-render.js
+
+extra_css:
+  - styles/strudel.css
+  - styles/vendor/abcjs-audio.css
+  #- styles/abc.css
+
