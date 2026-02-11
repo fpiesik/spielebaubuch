@@ -19,6 +19,7 @@ nav:
       - 1.1 Pico-8: kapitel/wahlderwerkzeuge/01.md
   - Genres:
       - Jump'n'Run: kapitel/genres/plattformer.md
+      - Rhythmusspiele: kapitel/rhythmusspielemd
 
 markdown_extensions:
   - admonition

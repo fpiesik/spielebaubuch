@@ -18,140 +18,78 @@ related_genres:
 
 # Jump ’n’ Run / Plattformer
 
-> **Genre in einem Satz:** Eine Spielfigur bewegt sich laufend und springend durch einen Raum, überwindet Hindernisse und meistert präzise Herausforderungen.  
-> **Core Loop:** Bewegen → Hindernis überwinden → Fortschritt sichern → nächster Abschnitt  
-> **Player Skill:** Reaktion, Timing, motorische Präzision  
-> **Schwierigkeitshebel:** Sprungphysik, Plattformabstände, Gegnerplatzierung, Tempo  
-> **Typische Perspektive:** 2D-Seitenansicht oder 3D-Drittperson
+## Der Sprung als Versprechen
+
+Es gibt kaum eine grundlegendere Spielerfahrung als den Sprung über einen Abgrund. Ein einziger Tastendruck entscheidet darüber, ob die Figur sicher landet oder in die Tiefe fällt. Im Moment des Absprungs liegt ein Versprechen: Wenn Timing und Distanz stimmen, wird Bewegung zu Fortschritt.
+
+Plattformer – oder klassisch: Jump-’n’-Run-Spiele – gehören zu den ältesten und prägendsten Genres der Videospielgeschichte. Sie reduzieren das Spiel auf eine scheinbar einfache Idee: Eine Figur bewegt sich durch einen Raum, der aus Plattformen, Hindernissen und Gefahren besteht. Doch in dieser Reduktion liegt ihre Stärke. Denn im Kern geht es um etwas sehr Elementares: das Verhältnis von Körper, Raum und Schwerkraft.
+
+<figure markdown>
+  ![](../bilder/mario-bros-3.jpg)
+  <figcaption>
+    Abb. 2: Die präzise Sprungmechanik in <em>Super Mario Bros.</em> 
+    wurde zum Maßstab für spätere Plattformer.
+  </figcaption>
+</figure>
 
 ---
 
-## 1. Kurzüberblick
+## Die Geburt des vertikalen Raums
 
-Jump-’n’-Run-Spiele – auch Plattformer genannt – gehören zu den ältesten und prägendsten Genres der Videospielgeschichte. Im Zentrum steht die Fortbewegung einer Figur durch eine Umgebung, die durch Plattformen, Abgründe und Hindernisse strukturiert ist.
+In den frühen 1980er-Jahren waren technische Möglichkeiten stark begrenzt. Bildschirme zeigten statische Szenen, Speicher war knapp, Animationen minimal. Gerade deshalb entstand eine brillante Idee: Spannung durch Höhenunterschiede.
 
-Das Genre wirkt einfach, lebt aber von präziser Steuerung und klarem Leveldesign. Gute Plattformer zeichnen sich durch ein überzeugendes „Bewegungsgefühl“ aus – das sogenannte *Game Feel*.
+*Donkey Kong* (1981) zeigte erstmals deutlich, wie das Überwinden von Plattformen zum zentralen Spielprinzip werden kann. Mit *Super Mario Bros.* (1985) wurde daraus ein ganzes Universum. Scrollende Level erweiterten den Raum, Bewegung wurde flüssiger, das „Gefühl des Sprungs“ perfektioniert.
 
-**Abgrenzung:** Im Gegensatz zu Action-Adventures steht nicht die Story oder das Kampfsystem im Vordergrund, sondern die physische Herausforderung durch Bewegung.
-
----
-
-## 2. Ursprung des Genres
-
-- **Zeit / Kontext:** Frühe Arcade-Ära (1980er)
-- **Vorläufer:** Ein-Bildschirm-Arcade-Spiele mit Kletter- und Sprungelementen
-- **Erste genretypische Titel:** Donkey Kong (1981), Pitfall! (1982)
-- **Warum entstand es gerade dann?**  
-  Begrenzte Hardware begünstigte klare, einfache Mechaniken. Höhenunterschiede und Plattformen erzeugten Spannung ohne komplexe Simulation.
-
-Mit Heimkonsolen wie dem NES wurde das Genre zu einem festen Bestandteil der Spielekultur.
+Was als technische Notlösung begann – horizontale und vertikale Bewegung auf begrenztem Bildschirm – entwickelte sich zu einer Design-Disziplin. Plötzlich war nicht mehr nur wichtig, *wo* sich eine Figur befindet, sondern *wie* sie sich bewegt.
 
 ---
 
-## 3. Zentrale Spielmechaniken & Designprinzipien
+## Das unsichtbare Gesetz: Schwerkraft
 
-### Kernmechaniken
-- Laufen (horizontale Bewegung)
-- Springen (Überwinden von Abständen)
-- Schwerkraft als konstante Regel
-- Kollision mit Plattformen und Hindernissen
+Im Zentrum jedes Plattformer-Spiels steht ein physikalisches Versprechen: Die Figur wird fallen. Die Schwerkraft ist das unsichtbare Gesetz, das den Raum strukturiert. Plattformen sind sichere Inseln in einem potenziell tödlichen Vakuum.
 
-### Typische Systeme
-- **Progression:** Levelstruktur oder Weltkarte
-- **Fail-States:** Leben, Checkpoints, Zeitlimit
-- **Feedback:** Soundeffekte beim Sprung, visuelles Treffer-Feedback
+Der Sprung ist deshalb mehr als eine Fortbewegungsmethode. Er ist ein kalkulierter Bruch mit der Schwerkraft. Gute Plattformer zeichnen sich durch ein präzises Bewegungsgefühl aus – ein Zusammenspiel aus Beschleunigung, Absprunghöhe, Fallgeschwindigkeit und Luftkontrolle. Schon kleine Veränderungen dieser Parameter können ein Spiel träge oder federnd, gnadenlos oder verzeihend wirken lassen.
 
-### “Minimalversion” des Genres
-
-> Wenn man alles entfernt, bleibt:  
-> **Eine Figur, Schwerkraft und ein Abgrund.**
+Reduziert man das Genre auf seine Minimalform, bleibt eine Figur, ein Abgrund und ein Ziel auf der anderen Seite. Alles Weitere – Gegner, Sammelobjekte, Power-ups – sind Variationen dieses Grundprinzips.
 
 ---
 
-## 4. Bekannte Vertreter
+## Bewegung als Charakter
 
-### Klassiker / prägende Titel
-- Super Mario Bros. (1985) – definierte das Genregefühl
-- Prince of Persia (1989) – realistische Animation
-- Sonic the Hedgehog (1991) – Geschwindigkeit als Kernidee
+Mit der Zeit entwickelten sich unterschiedliche Interpretationen dieser Grundidee. Manche Spiele betonen Geschwindigkeit, andere Präzision. *Sonic the Hedgehog* machte Tempo zur Identität. *Prince of Persia* hingegen verlangsamte die Bewegung und legte Wert auf realistische Animation und exaktes Timing.
 
-### Moderne Vertreter / Hybride
-- Celeste (2018) – Präzision und Narrative
-- Super Meat Boy (2010) – extreme Schwierigkeit
-- Hollow Knight (2017) – Verbindung mit Exploration
+Moderne Titel wie *Celeste* führen diese Linie weiter, indem sie extrem präzise Steuerung mit erzählerischer Tiefe verbinden. In sogenannten „Precision-Plattformern“ wird der Sprung zur millimetergenauen Herausforderung. Gleichzeitig entstanden mit 3D-Plattformern neue Formen der Raumwahrnehmung, in denen Kameraführung und Orientierung zusätzliche Designaufgaben wurden.
+
+Auch hybride Formen entwickelten sich. Das „Metroidvania“ verbindet Plattform-Mechanik mit Erkundung und Fähigkeiten, die neue Wege eröffnen. Hier wird der Raum selbst zum Gedächtnis – Fortschritt bedeutet, frühere Hindernisse mit neuen Möglichkeiten zu überwinden.
 
 ---
 
-## 5. Persönlichkeiten & prägende Studios
+## Fairness und Lesbarkeit
 
-- Shigeru Miyamoto – prägte das Bewegungsdesign moderner Plattformer
-- Jordan Mechner – brachte filmische Animation ins Genre
-- Nintendo – verfeinerte das Genre über Jahrzehnte hinweg
+Plattformer sind gnadenlos ehrlich. Scheitern ist unmittelbar sichtbar. Deshalb ist Fairness ein zentrales Designprinzip. Gute Level kommunizieren klar, wo Gefahr droht und welche Distanzen überwindbar sind. Plattformabstände, visuelle Kontraste und Rhythmus der Hindernisse erzeugen eine implizite Grammatik.
 
----
-
-## 6. Evolution & Untergenres
-
-### Entwicklungsphasen
-- Arcade-Phase: Einzelbildschirm, hohe Schwierigkeit
-- Konsolen-Phase: Scrollende Level, Charakterdesign
-- Indie-Phase: Experimentelle Mechaniken, hohe Präzision
-
-### Untergenres / Hybridformen
-- 3D-Plattformer
-- Metroidvania
-- Endless Runner
-- Precision-Plattformer
+Ein gut gestalteter Level fühlt sich wie ein Dialog an: Das Spiel stellt eine Frage – der Spieler antwortet mit einem Sprung.
 
 ---
 
-## 7. Plattformen & technische Bedingungen
+## Kultur und Wettbewerb
 
-- **Typische Plattformen:** Arcade, Konsole, PC, Mobile
-- **Eingabegeräte:** Controller, Tastatur, Touch
-- **Technische Constraints:** Framerate, Kollisionsabfrage, Scroll-Technik
-- **Einfluss aufs Design:** Präzise Steuerung ist entscheidend für Fairness.
+Plattformer sind seit jeher eng mit Highscore-Kultur und Speedrunning verbunden. Gerade weil ihre Regeln klar und transparent sind, eignen sie sich für Wettkämpfe um Zeit und Präzision. In Speedruns werden Spiele bis ins kleinste Detail analysiert; Bewegungsabläufe werden optimiert, Abkürzungen entdeckt, physikalische Systeme ausgereizt.
 
----
-
-## 8. Communities, Wettkämpfe & Kultur
-
-- Speedrunning als zentrale Community-Praxis
-- Modding und Level-Editoren
-- Streaming durch hohe Spannung und Wiederholbarkeit
-
-Plattformer sind besonders geeignet für kompetitives Spielen ohne komplexe Regelwerke.
+Das Genre lebt von dieser Lesbarkeit. Jeder Fehler ist nachvollziehbar, jeder Erfolg sichtbar verdient.
 
 ---
 
-## 9. Im Spielebauunterricht / Eigene Projekte
+## Plattformer im Spielebauunterricht
 
-### Warum geeignet?
-- Klare, sichtbare Mechaniken
-- Gute Einführung in Physik und Kollisionslogik
-- Schnelle Erfolgserlebnisse
+Für die Spieleentwicklung sind Plattformer ein ideales Übungsfeld. Sie vermitteln grundlegende Konzepte wie Kollisionsabfrage, Zustandsmaschinen, Physiksimulation und Leveldesign. Gleichzeitig bieten sie schnelle Erfolgserlebnisse: Eine Figur springt – und sofort entsteht Spiel.
 
-### Typische Anfängerfehler
-- Ungenaue Hitboxen
-- Zu große Sprungdistanzen
-- Fehlende visuelle Orientierung
-
-### Mini-Projekt-Ideen
-1. Ein Raum mit drei Plattformen und einem Ziel
-2. Ein Level nur mit variierter Sprungphysik
-3. Ein Spiel ohne Gegner – nur Bewegung als Herausforderung
+Im Unterricht lassen sich Projekte schrittweise aufbauen. Zunächst reicht ein Raum mit drei Plattformen und einem Zielpunkt. Später können Gegner, bewegliche Plattformen oder alternative Sprungmechaniken hinzukommen. Gerade weil das Genre klar strukturiert ist, eignet es sich hervorragend, um Designprinzipien sichtbar zu machen.
 
 ---
 
-## 10. Zusammenfassung & Ausblick
+## Ausblick
 
-### Merksätze
-- Plattformer sind ein Kern-Genre der Spieleentwicklung.
-- Das Bewegungsgefühl entscheidet über die Qualität.
-- Gute Level sind fair, aber fordernd.
-- Das Genre lebt von Variation innerhalb klarer Regeln.
+Obwohl das Genre zu den ältesten gehört, ist es keineswegs abgeschlossen. Indie-Studios experimentieren mit neuen Bewegungsformen, variabler Schwerkraft oder physikbasierten Systemen. Assistenzoptionen machen anspruchsvolle Spiele zugänglicher, ohne ihre Identität zu verlieren.
 
-### Trends / offene Fragen
-- Kombination mit Roguelike-Elementen
-- Physikbasierte Experimente
-- Zugänglichkeit und Assist-Optionen
+Der Plattformer erinnert uns daran, dass große Spielerfahrungen nicht zwangsläufig komplexe Systeme benötigen. Manchmal genügt ein präzise gesetzter Abgrund – und der Mut zum Sprung.
