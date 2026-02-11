@@ -17,6 +17,8 @@ nav:
   - Start: index.md
   - 1 Die Wahl der Werkzeuge:
       - 1.1 Pico-8: kapitel/wahlderwerkzeuge/01.md
+  - Genres:
+      - Jump'n'Run: kapitel/genres/plattformer.md
 
 markdown_extensions:
   - admonition
